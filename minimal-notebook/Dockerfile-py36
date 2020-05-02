@@ -1,4 +1,4 @@
-FROM centos/python-36-centos7:latest
+FROM registry.redhat.io/rhel8/python-38
 
 USER root
 
